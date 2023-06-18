@@ -1,4 +1,4 @@
-Welcome to my Python for Data Analysis portfolio! 
+##Welcome to my Python for Data Analysis portfolio! 
 
 This collection of projects and resources showcases my proficiency in leveraging Python for various data analysis tasks
 
